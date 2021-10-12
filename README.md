@@ -1,4 +1,4 @@
 #hw2
 
-![gantt](1.png "甘特圖")
-![pert](2.png "pert圖")
+![gantt](1.jpg "甘特圖")
+![pert](2.jpg "pert圖")
